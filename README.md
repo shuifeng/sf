@@ -1,2 +1,7 @@
 # sf
-The self - cultivation of the programmer
+npm install sf-master
+
+dasds 啊啊是的撒打算
+的撒的撒
+发的撒的撒
+放大舒服
