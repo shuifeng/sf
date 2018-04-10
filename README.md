@@ -1,21 +1,24 @@
-# sf
-npm install sf-master
+# 图片查看器，支持手势缩放、分享
 
-dasds 啊啊是的撒打算
-的撒的撒
-发的撒的撒
-放大舒服
-ad sad dsad dsf dsf fgd gfd 
-sdfs fdsf 
-dsad
-fdsf
-fdsg
+# 安装
+> npm install react-native-sf-image-zoom-viewer
 
+# 例子
+'''
+import SFZoomView from 'react-native-sf-image-zoom-viewer';
+export default class App extends React.Component {
+  show=()=>{
+    
+  }
+  render(){
+    return(
+      <View style={{flex:1,}}>
+        ...
+        ...
+        <SFZoomView ref={(ref)=>{this.zoomViewer = ref}}/>
+      </View>
+    )
+  }
+}
 
-dasd
-
-dsad
-
-#dasdas
-#sadas
-![baidu](http://www.baidu.com/img/bdlogo.gif) 
+'''
