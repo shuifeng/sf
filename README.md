@@ -28,4 +28,4 @@ export default class App extends React.Component {
 |:-----|:-----|:-----|:-----|:-----|
 |isShowAni|boolean|no|是否显示展示动画|true|
 |isShowShare|boolean|no|是否显示分享按钮|true|
-|onShare|function|no|点击分享事件|()=>null|
+|onShare|function<br>()=>(index)=>{}|no|点击分享事件|()=>null|
