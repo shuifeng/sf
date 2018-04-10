@@ -22,3 +22,10 @@ export default class App extends React.Component {
 }
 
 ```
+
+# Props
+|  parameter  |  type  |  required  |   description  |  default  |
+-|-|-|-|-|-
+isShowAni|boolean|no|是否显示展示动画|true
+isShowShare|boolean|no|是否显示分享按钮|true
+onShare|function|no|点击分享事件|()=>null
