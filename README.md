@@ -4,7 +4,7 @@
 > npm install react-native-sf-image-zoom-viewer
 
 # 例子
-'''
+```
 import SFZoomView from 'react-native-sf-image-zoom-viewer';
 export default class App extends React.Component {
   show=()=>{
@@ -21,4 +21,4 @@ export default class App extends React.Component {
   }
 }
 
-'''
+```
